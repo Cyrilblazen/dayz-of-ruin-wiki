@@ -1,7 +1,7 @@
 {
-  "name": "nextra-docs-template",
+  "name": "dayz-of-ruin-wiki",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "Dedicated Wiki for DayZ of Ruin",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,20 +9,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shuding/nextra-docs-template.git"
+    "url": "git+https://github.com/Mirasaki-Development/dayz-of-ruin-wiki.git"
   },
-  "author": "Shu Ding <g@shud.in>",
+  "author": "Richard Hillebrand (Mirasaki)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
+    "url": "https://github.com/Mirasaki-Development/dayz-of-ruin-wiki/issues"
   },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "homepage": "https://github.com/Mirasaki-Development/dayz-of-ruin-wiki#readme",
   "dependencies": {
     "next": "^13.0.6",
     "nextra": "latest",
     "nextra-theme-docs": "latest",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "sharp": "^0.32.4"
   },
   "devDependencies": {
     "@types/node": "18.11.10",
